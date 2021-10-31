@@ -1,5 +1,9 @@
 # RPA_UiPath
 
+## 課程來源
+* udemy線上課程
+* https://www.udemy.com/course/complete-uipath-rpa-developer-course/
+
 ## 什麼是機器人流程自動化 (RPA)？
 
 * 機器人流程自動化 (RPA) 是一種軟體技術，任何人都可以輕鬆用來自動化數位任務。
@@ -8,7 +12,9 @@
 * 包含的範圍廣泛，甚至連打開電子郵件和附件、登錄應用程式、閱讀資料庫、收集數據
 * 在工作場所，RPA 用於自動化勞動密集型的日常流程，更可以釋放員工時間，去進行更有複雜性的工作
 
+**RPA 工具中，市占前三名是 Blue PRISM, UI path and automation**
 
-** RPA 工具中，市占前三名是 Blue PRISM, UI path and automation **
+
+## RPA 相關名詞介紹
 
 
