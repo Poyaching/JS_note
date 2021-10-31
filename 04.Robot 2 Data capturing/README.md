@@ -1,19 +1,17 @@
-# 03.Robot 1 Clothing consultant
+# 04.Robot 2 Data capturing
 
-## 章節目的：學習用RPA至操作瀏覽器，進行網路查詢
+## 章節目的：學習用RPA excel檔案，並自動化input到瀏覽器
 
 ## 操作流程：
-1. 跳窗輸入查詢地區
+1. 匯入excel
 ![image](picture or gif url)
 2. 打開瀏覽器
 ![image](picture or gif url)
-3. 輸入文字
+3. 設定使用變數，建立匯入迴圈
 ![image](picture or gif url)
-4. click 點選搜尋，按下enter
+4. input 資料
 ![image](picture or gif url)
-5. 抓取資訊
-![image](picture or gif url)
-6. 複製資訊
+5. if條件式
 ![image](picture or gif url)
 
 ## 操作動畫結果：
