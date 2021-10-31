@@ -17,4 +17,4 @@
 ![image](picture or gif url)
 
 ## 操作動畫結果：
-![image](picture or gif url)
+![image](https://github.com/Poyaching/RPA_UiPath/blob/main/03.Robot%201%20Clothing%20consultant/gif/test.gif)
