@@ -3,7 +3,7 @@
 ## 章節目的：利用RPA抓取資料，並寫成資料庫
 ## 操作流程：
 1. 彈出輸入框，輸入查詢地點
-![image]https://github.com/Poyaching/RPA_UiPath/blob/main/06.Robot%204%20Real%20estate%20web%20scraping/gif/%E8%B7%B3%E7%AA%97.jpg)
+![image](https://github.com/Poyaching/RPA_UiPath/blob/main/06.Robot%204%20Real%20estate%20web%20scraping/gif/%E8%B7%B3%E7%AA%97.jpg)
 2. 打開瀏覽器、放大視窗
 ![image](https://github.com/Poyaching/RPA_UiPath/blob/main/06.Robot%204%20Real%20estate%20web%20scraping/gif/%E7%80%8F%E8%A6%BD%E5%99%A8%E6%AF%94%E8%BC%83.jpg)
 ![image](https://github.com/Poyaching/RPA_UiPath/blob/main/06.Robot%204%20Real%20estate%20web%20scraping/gif/%E8%A6%96%E7%AA%97%E6%93%8D%E4%BD%9C.jpg)
