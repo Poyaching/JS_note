@@ -6,9 +6,11 @@
 ![image](https://github.com/Poyaching/RPA_UiPath/blob/main/07.Robot%205%20PDF%20invoice%20data%20scraping/gif/RPA.jpg)
 2. 分別開啟不同檔案，視窗最大化
 ![image](https://github.com/Poyaching/RPA_UiPath/blob/main/07.Robot%205%20PDF%20invoice%20data%20scraping/gif/RPA%20(1).jpg)
-3. 利用UI explorer (UI選擇器)抓取想要匯入excel元素
 ![image](https://github.com/Poyaching/RPA_UiPath/blob/main/07.Robot%205%20PDF%20invoice%20data%20scraping/gif/RPA%20(2).jpg)
+3. 利用UI explorer (UI選擇器)抓取想要匯入excel元素
+![image](https://github.com/Poyaching/RPA_UiPath/blob/main/07.Robot%205%20PDF%20invoice%20data%20scraping/gif/RPA%20(3).jpg)
 ![image](https://github.com/Poyaching/RPA_UiPath/blob/main/07.Robot%205%20PDF%20invoice%20data%20scraping/gif/RPA%20(4).jpg)
+
 4. 寫入excel到儲存格
 ![image](https://github.com/Poyaching/RPA_UiPath/blob/main/07.Robot%205%20PDF%20invoice%20data%20scraping/gif/RPA%20(5).jpg)
 
