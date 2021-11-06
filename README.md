@@ -4,10 +4,6 @@
 * udemy線上課程
 * https://www.udemy.com/course/complete-uipath-rpa-developer-course/
 
-## 課程實作練習
-* 課程練習：15項
-*
-
 ## 什麼是機器人流程自動化 (RPA)？
 
 * 機器人流程自動化 (RPA) 是一種軟體技術，任何人都可以輕鬆用來自動化數位任務。
